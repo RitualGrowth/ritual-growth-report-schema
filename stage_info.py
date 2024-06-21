@@ -1,0 +1,4 @@
+class StageInfo:
+    """
+    Stage Info
+    """
